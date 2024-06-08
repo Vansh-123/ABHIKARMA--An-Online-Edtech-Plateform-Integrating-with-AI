@@ -61,3 +61,10 @@ Course Creation Page-
 
 ![Screenshot 2024-05-29 014238](https://github.com/Vansh-123/ABHIKARMA--An-Online-Edtech-Plateform-Integrating-with-AI/assets/81957884/1f7f2d35-356e-4a8b-a8ee-563221cabd2c)
 
+AI Doubt Assistance:-
+
+
+https://github.com/Vansh-123/ABHIKARMA--An-Online-Edtech-Plateform-Integrating-with-AI/assets/81957884/4b44d87d-4a74-4781-ba55-f9c1b204a066
+
+https://github.com/Vansh-123/ABHIKARMA--An-Online-Edtech-Plateform-Integrating-with-AI/assets/81957884/22007155-046f-475d-adac-2ed4df5916a8
+
