@@ -1,7 +1,7 @@
 {
-  "name": "studynotion-backend",
+  "name": "Abhikarma-backend",
   "version": "1.0.0",
-  "description": "studynotion-backend",
+  "description": "Abhikarma-backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "studynotion-backend"
   ],
-  "author": "Saikat Mukherjee",
+  "author": "Vansh Gupta",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
